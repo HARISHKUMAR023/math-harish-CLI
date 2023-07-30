@@ -1,0 +1,16 @@
+{
+  "name": "math-harish",
+  "version": "1.0.1",
+  "description": "This an cli that perform basic math operation",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harish",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "figlet": "^1.6.0",
+    "math-harish": "^1.0.0"
+  }
+}
